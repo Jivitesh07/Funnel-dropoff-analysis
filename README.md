@@ -1,7 +1,7 @@
 # Funnel-dropoff-analysis
 
 Objective:
-Analyze the user funnel to identify where users leave before completing the purchase.
+Analyze the user funnel to identify were users leave before completing the purchase.
 
 Tools Used:
 - Python
